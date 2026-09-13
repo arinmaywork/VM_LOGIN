@@ -1,4 +1,8 @@
+# Local config with real IPs, MAC address and token ID
 config.sh
+
+# macOS Finder metadata
 .DS_Store
-config.sh
+
+# Runtime logs
 *.log
